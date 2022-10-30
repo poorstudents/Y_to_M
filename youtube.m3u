@@ -11,16 +11,3 @@
 ###########################################################################
 
 
-
-#EXTINF:-1 group-title="Info - Must Read" tvg-logo="https://i.imgur.com/aESqPMs.png" tvg-id="", Playlist is for Free
-https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8
-
-#EXTINF:-1 group-title="French" tvg-logo="https://i.imgur.com/C8DXbt1.png" tvg-id="", BFM Grand Lille (720p)
-https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/AzIEYXU.png" tvg-id="", NewsTamil 24x7
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1667139743/ei/PzReY4CJE8PJiwTBqDk/ip/20.97.115.229/id/V9u4YGe60fg.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgH6xVAW_x3wLAPMKfcf0KWqiuLQUg8zMPGhmZfB-U6XwCIQDyEct5BMHoq087wo4lRskXtg-DnZvYK6jhDKM8VzDE2g%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Me" tvg-logo="https://i.ytimg.com/vi/5n0y6b0Q25o/hqdefault_live.jpg" tvg-id="84", 鏡新聞
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1667139744/ei/PzReY-qbMNqrlu8PhLqBkAU/ip/20.97.115.229/id/5n0y6b0Q25o.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgDMxzWoI7TtDrr8syOf59kz1yCrqi9W71U1mPxDbDE3YCIQChTDoCdnkZsUs2bA5Vs1wWIqEdYkiXfsSnLNUQFDE1-g%3D%3D/file/index.m3u8
